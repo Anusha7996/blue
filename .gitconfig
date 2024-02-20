@@ -1,0 +1,5 @@
+[user]
+	email = git-client1@example.com
+	name = git-client1
+[push]
+	default = matching
